@@ -3,9 +3,6 @@
 
 ## :trophy: Stats:
 <a>
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=youlha1&count_private=true&show_icons=true" />
-</a>
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youlha1&hide=css,javascript,html,shell,SCSS" />
+  <img  align="left" src="https://github-readme-stats-fast.vercel.app/api?username=youlha1" />
 </a>
 
